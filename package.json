@@ -1,10 +1,7 @@
 {
   "name": "varakin_lvl1",
-<<<<<<< HEAD
   "version": "1.0.1",
-=======
   "version": "1.0.0",
->>>>>>> b5b64f6b39a12ae1e6d66253ff1d66890b5f5d43
   "description": "",
   "main": "",
   "bin": {
