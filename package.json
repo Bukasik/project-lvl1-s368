@@ -28,6 +28,7 @@
     "eslint-plugin-import": "^2.14.0"
   },
   "dependencies": {
+    "eslint-plugin-babel": "^5.2.1",
     "readline-sync": "^1.4.9"
   },
   "files": [
