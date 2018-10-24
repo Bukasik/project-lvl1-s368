@@ -1,6 +1,6 @@
 {
-  "name": "varakinlvl1",
-  "version": "1.0.4",
+  "name": "varakin_lvl1",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -18,5 +18,8 @@
     "@babel/core": "^7.1.2",
     "@babel/node": "^7.0.0",
     "@babel/preset-env": "^7.1.0"
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }
