@@ -1,9 +1,7 @@
 {
   "name": "varakin_lvl1",
   "version": "1.0.1",
-  "version": "1.0.0",
-  "description": "",
-  "main": "",
+  "description": "First JS project for Hexlet.Brain games",
   "bin": {
     "brain-games": "dist/bin/brain-games.js"
   },
@@ -12,6 +10,11 @@
     "build": "NODE_ENV=production babel src --out-dir dist --source-maps inline",
     "prepublishOnly": "npm run build"
   },
+  "keywords" [
+    "braingames",
+    "games",
+    "varakin"
+  ],
   "author": "Vasily Varakin",
   "license": "ISC",
   "devDependencies": {
