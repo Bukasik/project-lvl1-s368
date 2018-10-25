@@ -1,9 +1,10 @@
 {
   "name": "varakin_lvl1",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "First JS project for Hexlet.Brain games",
   "bin": {
-    "brain-games": "dist/bin/brain-games.js"
+    "brain-games": "dist/bin/brain-games.js",
+    "brain-even": "dist/bin/brain-even.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

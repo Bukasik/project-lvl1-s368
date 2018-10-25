@@ -1,6 +1,3 @@
-import readlineSync from 'readline-sync';
+import sayHi from './games/sayHi';
 
-export default () => {
-  const name = readlineSync.question('May I have you name? ');
-  console.log(`Hello, ${name}!`);
-};
+export default sayHi;
