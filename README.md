@@ -5,8 +5,8 @@
 
 # Install
 
-[![asciicast](https://asciinema.org/a/7V86BVXWjfqB2EGOCRDrU7p2V.png)](https://asciinema.org/a/7V86BVXWjfqB2EGOCRDrU7p2V)
+<script id="asciicast-7V86BVXWjfqB2EGOCRDrU7p2V" src="https://asciinema.org/a/7V86BVXWjfqB2EGOCRDrU7p2V.js" async></script>
 
 # Game brain-even
 
-[![asciicast](https://asciinema.org/a/lRqTNUVBRGRC3VGMx34LlBHVX.png)](https://asciinema.org/a/lRqTNUVBRGRC3VGMx34LlBHVX)
+<script id="asciicast-lRqTNUVBRGRC3VGMx34LlBHVX" src="https://asciinema.org/a/lRqTNUVBRGRC3VGMx34LlBHVX.js" async></script>
