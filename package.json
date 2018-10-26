@@ -1,6 +1,6 @@
 {
   "name": "varakin_lvl1",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "First JS project for Hexlet.Brain games",
   "bin": {
     "brain-games": "dist/bin/brain-games.js",
