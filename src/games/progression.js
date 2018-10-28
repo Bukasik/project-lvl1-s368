@@ -3,21 +3,21 @@ import randomNum from '../utils';
 import { cons } from 'hexlet-pairs';
 
 const instruction = 'What number is missing in this progression?';
+const lengthOfProgression = 10;
 
 const getData = () => {
-  const lengthOfProgression = 10;
-  const step = randomNum(1, 5);
+  const step = randomNum(1, 10);
   const start = randomNum(1, 10);
-  const finish = start + (lengthOfProgression - 1) * step;
   const replacementIndex = randomNum(1, 10);
   const correctAnswer = start + (replacementIndex - 1) * step;
   let question = '';
-  for (let progression = start; progression <= finish; progression += step) {
-    if (progression === correctAnswer) {
+  for (let i = 0; i < lengthOfProgression; i += 1) {
+    const element = start + step * i;
+    if (element === correctAnswer) {
       question += '.. ';
-      progression += step;
+    } else {
+      question += `${start + step * i} `;
     }
-    question += `${progression} `;
   }
   return cons(question, String(correctAnswer));
 };
