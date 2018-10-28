@@ -1,5 +1,5 @@
 import gameFrame from '..';
-import randomNum from '../randFunc';
+import randomNum from '../utils';
 import { cons } from 'hexlet-pairs';
 
 const instruction = 'What number is missing in this progression?';

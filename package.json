@@ -1,12 +1,12 @@
 {
   "name": "varakin_lvl1",
-  "version": "1.1.12",
+  "version": "1.1.14",
   "description": "First JS project for Hexlet.Brain games",
   "bin": {
     "brain-games": "dist/bin/brain-games.js",
     "brain-even": "dist/bin/brain-even.js",
     "brain-calc": "dist/bin/brain-calc.js",
-    "brain-gcd": "dist/bin/brain-gcd.js",
+    "brain-gcd": "dist/bin/brain-nod.js",
     "brain-progression": "dist/bin/brain-progression.js"
   },
   "scripts": {
@@ -27,7 +27,7 @@
     "@babel/node": "^7.0.0",
     "@babel/preset-env": "^7.1.0",
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.7.0",
+    "eslint": "^5.8.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-babel": "^5.2.1",
     "eslint-plugin-import": "^2.14.0"

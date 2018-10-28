@@ -1,5 +1,5 @@
 import gameFrame from '..';
-import randomNum from '../randFunc';
+import randomNum from '../utils';
 import { cons } from 'hexlet-pairs';
 
 const instruction = 'What is the result of the expression?';
